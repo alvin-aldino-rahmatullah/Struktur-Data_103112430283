@@ -2,9 +2,11 @@
 </b></h1><p align = center><b>Nama : Alvin Aldino Rahmatullah || NIM : 103112430283 || Kelas : IF-12-05</b></p>
 
 <h1> 1. Motivasi Belajar Struktur Data </h1>
+
 Saya merasa mempelajari struktur data adalah pondasi awal untuk mengelola dan memahami informasi. Dengan memahami struktur data dengan baik saya merasa nantinya akan mudah menyusun program yang lebih efisien dan mampu menyelesaikan permasalahan nyata yang dihadapi, seperti pengolahan data pada aplikasi, layanan digital dan program yang mempermudah kegiatan sehari hari
 
 <h1> 2. Dasar Teori </h1>
+
 Pada pertemuan pertama saya hanya perlu mengulang basic program seperti penentuan variabel, struktur program, dan mengenal bahasa pemograman C++ yang akan dipakai dalam proyek semester 3 kedepan.
 
 C++ adalah bahasa pemrograman yang terkenal dengan efisiensinya. Bahasa ini diciptakan untuk melengkapi bahasa pemrograman C, dan mampu menangani aplikasi berperforma tinggi, seperti game dan sistem operasi. Selain itu, C++ juga mendukung berbagai gaya pemrograman dan sangat fleksibel. Programmer bisa mengatur penggunaan memori secara langsung, menjadikan C++ cocok untuk proyek kecil maupun besar dan banyak dipakai di berbagai industri teknologi.
@@ -41,9 +43,11 @@ int main(){
 }
 ```
 **-Penjelasan Umum-**
+
 ini adalah sebuah program yang bisa dipakai dalam kasir toko atau tempat berbelanjaan lainnya, karena program ini berfungsi untuk cek apakah sebuah pembelian akan mendapatkan diskon dan jika ya program akan langsung menghitung total belanja yang didapatkan oleh pelanngan.
 
 **-Output-**
+
 ![](output/output_g1.png)
 
 ### 3.2 Guided 2 (Increment)
@@ -68,9 +72,11 @@ int main(){
 
 ```
 **-Penjelasan Umum-**
+
 Program ini merupakan contoh sederhana penggunaan operator increment (++r) dalam bahasa C++. Program akan mendeklarasikan variabel r dengan nilai awal, lalu melakukan operasi aritmatika menggunakan pre-increment. Hasil akhirnya adalah menampilkan nilai terbaru dari r setelah ditambah, serta nilai s yang merupakan hasil perhitungan dari ekspresi aritmatika. Program ini berguna untuk memahami bagaimana operator increment bekerja dalam pengolahan data numerik pada pemrograman.
 
 **-Output-**
+
 ![](output/output_g2.png)
 
 ### 3.3 Guided 3 (Konversi suhu)
@@ -98,13 +104,15 @@ int main(){
 
 ```
 **-Penjelasan Umum-**
+
 Program ini merupakan contoh sederhana konversi suhu dari Celcius ke Fahrenheit. Program akan meminta pengguna untuk memasukkan suhu dalam satuan Celcius, kemudian melakukan perhitungan menggunakan rumus konversi (9.0/5.0) * celcius + 32. Hasil akhirnya adalah menampilkan suhu dalam satuan Fahrenheit. Program ini bermanfaat untuk menjauhi gebetan.
 
 **-Output-**
+
 ![](output/output_g3.png)
 
 
-## 4. Unguided
+<h1> 4. Unguided </h1>
 
 ### 4.1 Unguided 1
 
@@ -143,9 +151,11 @@ int main(){
 
 ```
 **-Penjelasan Umum-**
+
 ini adalah program sederhana operasi aritmatika atau perhitungan dasar dalam bahasa c++. Program Program akan meminta pengguna untuk memasukkan dua buah bilangan, kemudian menghitung hasil penjumlahan, pengurangan, perkalian, dan pembagian dari bilangan tersebut. Hasil perhitungan ditampilkan kembali ke layar. Program ini bermanfaat untuk memahami penggunaan variabel bertipe float, input/output, serta operator aritmatika dasar dalam pemrograman.
 
 **-Output-**
+
 ![](output/output_u1.png)
 
 ### 4.2 Unguided 2
@@ -153,6 +163,7 @@ ini adalah program sederhana operasi aritmatika atau perhitungan dasar dalam bah
 **-Soal 2-**
 
 **-Code Program-**
+
 Buatlah sebuah program yang menerima masukan angka dan mengeluarkan output nilai angka tersebut dalam bentuk tulisan. Angka yang akan di-input-kan user adalah bilangan bulat positif mulai dari 0 s.d 100.
 ![](output/soal_u2.png)
 
@@ -233,15 +244,19 @@ int main(){
 }
 ```
 **-Penjelasan Umum-**
+
 Program ini berfungsi untuk mengubah angka yang dimasukkan user antara 0 sampai 10 menjadi bentuk tulisan. Program melakukan validasi input agar angka tetap berada pada rentang yang ditentukan. Setelah itu, program memanfaatkan struktur kondisi if dan else untuk menangani berbagai kasus khusus, seperti angka 0, 10, 11, belasan (12–19), puluhan (20–99), hingga angka 100. Hasil konversi ditampilkan kembali ke layar dalam bentuk teks. Program ini bermanfaat untuk memahami implementasi array string, operasi aritmatika sederhana, serta logika percabangan dalam pemrograman C++.
 
 **-Output-**
+
 ![](output/output_u2.png)
 
 ### 4.3 Unguided 3
 
 **-Soal 3-**
+
 Buatlah program yang dapat memberikan input dan output sbb.
+
 ![](output/soal_u3.png)
 
 **-Code Program-**
@@ -286,15 +301,18 @@ int main(){
 }
 ```
 **-Penjelasan Umum-**
+
 Program ini menghasilkan pola berbentuk segitiga menurun, di mana ukuran pola bergantung pada angka n yang dimasukkan oleh user. Konsep dasar yang digunakan adalah looping untuk mencetak angka dari besar ke kecil di sisi kiri, kemudian angka dari kecil ke besar di sisi kanan. Kedua sisi tersebut dipisahkan oleh tanda * yang berperan sebagai titik tengah pola.
+
 **-Output-**
+
 ![](output/output_u3.png)
 
 
-## 5. Kesimpulan
+<h1> 5. Kesimpulan </h1>
 Dari praktikum ini dapat disimpulkan bahwa tujuan praktikum telah tercapai, yaitu memahami penerapan konsep dasar pemrograman C++ seperti penggunaan variabel, operator aritmatika, percabangan, perulangan, dan array string dalam menyelesaikan permasalahan sederhana. Implementasi teori yang dipelajari dapat terlihat dari pembuatan program-program praktis, misalnya konversi suhu, operasi aritmatika, pola segitiga, hingga konversi angka ke tulisan. Melalui praktikum ini, pemahaman saya terhadap teori menjadi lebih jelas karena dapat mengulang membuat program lagi walaupun ini menggunakan bahasa c++ dan bukan bahasa yang saya pakai biasanya, tapi hal itu dapat menambah wawasan baru terutama struktur data.
 
-## 6. Referensi
+<h1> 6. Referensi </h1>
 1. https://www.w3schools.com/cpp/default.asp
 2. https://www.hostinger.com/id/tutorial/bahasa-pemrograman-cpp
 3. https://www.belajarcpp.com/tutorial/cpp/pengenalan-cpp/ 
