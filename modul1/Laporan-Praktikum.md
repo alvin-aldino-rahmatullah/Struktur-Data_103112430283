@@ -318,5 +318,5 @@ Dari praktikum ini dapat disimpulkan bahwa tujuan praktikum telah tercapai, yait
 1. https://www.w3schools.com/cpp/default.asp
 
 2. https://www.hostinger.com/id/tutorial/bahasa-pemrograman-cpp
-3. 
-4. https://www.belajarcpp.com/tutorial/cpp/pengenalan-cpp/ 
+   
+3. https://www.belajarcpp.com/tutorial/cpp/pengenalan-cpp/ 
