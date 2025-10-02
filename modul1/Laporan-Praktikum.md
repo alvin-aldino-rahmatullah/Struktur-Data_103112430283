@@ -314,6 +314,9 @@ Program ini menghasilkan pola berbentuk segitiga menurun, di mana ukuran pola be
 Dari praktikum ini dapat disimpulkan bahwa tujuan praktikum telah tercapai, yaitu memahami penerapan konsep dasar pemrograman C++ seperti penggunaan variabel, operator aritmatika, percabangan, perulangan, dan array string dalam menyelesaikan permasalahan sederhana. Implementasi teori yang dipelajari dapat terlihat dari pembuatan program-program praktis, misalnya konversi suhu, operasi aritmatika, pola segitiga, hingga konversi angka ke tulisan. Melalui praktikum ini, pemahaman saya terhadap teori menjadi lebih jelas karena dapat mengulang membuat program lagi walaupun ini menggunakan bahasa c++ dan bukan bahasa yang saya pakai biasanya, tapi hal itu dapat menambah wawasan baru terutama struktur data.
 
 <h1> 6. Referensi </h1>
+
 1. https://www.w3schools.com/cpp/default.asp
+
 2. https://www.hostinger.com/id/tutorial/bahasa-pemrograman-cpp
-3. https://www.belajarcpp.com/tutorial/cpp/pengenalan-cpp/ 
+3. 
+4. https://www.belajarcpp.com/tutorial/cpp/pengenalan-cpp/ 
