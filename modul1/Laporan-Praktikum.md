@@ -165,6 +165,7 @@ ini adalah program sederhana operasi aritmatika atau perhitungan dasar dalam bah
 **-Code Program-**
 
 Buatlah sebuah program yang menerima masukan angka dan mengeluarkan output nilai angka tersebut dalam bentuk tulisan. Angka yang akan di-input-kan user adalah bilangan bulat positif mulai dari 0 s.d 100.
+
 ![](output/soal_u2.png)
 
 ```cpp
