@@ -74,6 +74,7 @@ int main() {
 program ini adalah program sederhana yang menunjukkan cara penggunaan pointer dalam bahasa C++. Program ini mensimulasikan proses pemberian diskon pada sebuah produk. Nilai harga produk awal disimpan dalam variabel, lalu diakses dan dimodifikasi melalui pointer. Dengan cara ini, perubahan nilai dapat langsung memengaruhi variabel aslinya di memori. 
 
 **-Output-**
+
 ![](output/output_g2.png)
 
 ### 3.3 Guided 3 ()
