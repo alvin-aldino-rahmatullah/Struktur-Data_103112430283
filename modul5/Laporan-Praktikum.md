@@ -105,7 +105,7 @@ Program hubung dua arah melalui pointer nezxt dan prev. Program ini terdiri dari
 
 ![](output/output_g1.png)
 
-### 3.2 Guided 2 (Diskon)
+### 3.2 Guided 2 
 
 **-Code Program-**
 
