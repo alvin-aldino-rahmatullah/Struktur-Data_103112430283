@@ -9,11 +9,17 @@ Saya merasa mempelajari struktur data adalah pondasi awal untuk mengelola dan me
 
 Queue adalah struktur data linear yang mengikuti prinsip FIFO (First-In-First-Out) dimana elemen yang pertama dimasukkan akan menjadi elemen pertama yang dikeluarkan. Analogi sederhananya seperti antrean di loket - orang yang datang pertama akan dilayani pertama.
 
+
 Operasi dasar Queue:
+
 Enqueue: Menambahkan elemen ke bagian belakang (tail) queue
+
 Dequeue: Menghapus elemen dari bagian depan (head) queue
+
 Front/Peek: Melihat elemen terdepan tanpa menghapusnya
+
 isEmpty: Memeriksa apakah queue kosong
+
 isFull: Memeriksa apakah queue penuh
 
 <h1> 3. Guided </h1>
