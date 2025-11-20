@@ -240,12 +240,12 @@ int main() {
     cout << "Hello world!" << endl; 
     
     Queue Q; // Deklarasi variabel
-    createQueue(Q); // Memanggil fungsi 
+    createQueue(Q); 
     
     cout << "------------------" << endl;
     cout << "H - T : Queue Info" << endl; 
     cout << "------------------" << endl;
-    printInfo(Q); // Menampilkan kondisi awal queue (kosong)
+    printInfo(Q); 
     enqueue(Q, 5); printInfo(Q);  // Menambah elemen 5 dan tampilkan queue
     enqueue(Q, 2); printInfo(Q);  // Menambah elemen 2 dan tampilkan queue
     enqueue(Q, 7); printInfo(Q);  // Menambah elemen 7 dan tampilkan queue
