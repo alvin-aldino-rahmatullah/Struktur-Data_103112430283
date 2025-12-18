@@ -880,7 +880,7 @@ Program ini memiliki penambahan fitur traversal Breadth First Search (BFS) untuk
 
 ![](output/output_us3.png)
 
-<h1> 6. Referensi </h1>
+<h1> 5. Referensi </h1>
 
 1. https://www.w3schools.com/dsa/dsa_theory_graphs.php
 2. https://www.programiz.com/dsa/graph-bfs/
