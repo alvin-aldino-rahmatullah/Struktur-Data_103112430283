@@ -525,8 +525,10 @@ Setiap node menyimpan data mahasiswa berupa nama, NIM, jenis kelamin, dan IPK. P
 ![](output/output_u1.png)
 
 <h1> 5. Referensi </h1>
+
+
     1. https://www.geeksforgeeks.org/data-structures/linked-list
 
     2. https://www.programiz.com/dsa/linked-list
 
-    3. https://www.geeksforgeeks.org/dsa/multilevel-linked-list/
+    3. https://www.geeksforgeeks.org/dsa/multilevel-linked-list
